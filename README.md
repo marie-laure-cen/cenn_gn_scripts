@@ -1,2 +1,2 @@
-# cenn_gn_scripts
+# SCRIPTS DU CEN Normandie concernant GeoNature
 Scripts du CEN Normandie concernant GeoNature
